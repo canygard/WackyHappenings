@@ -344,6 +344,8 @@ body {
   text-align: left;
   background-color: #fff; }
 
+
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
@@ -7950,6 +7952,8 @@ html {
   .col-md-6 {
     flex: 0 0 50%;
     max-width: 50%; }
+	padding-top: 8rem;
+	
   .col-md-7 {
     flex: 0 0 58.33333%;
     max-width: 58.33333%; }
