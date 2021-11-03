@@ -347,6 +347,15 @@ body {
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
+@media only screen and (max-width:1160px){
+.floatRight{margin-right:0}
+.floatRightClear{margin-right:0}
+.floatRightIcon{margin-right:0;padding-top:.5em}
+article h1{margin-right:0}
+.relatedpages,.additional{width:96%}
+.resize1000{width:100%}
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
